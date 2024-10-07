@@ -1,3 +1,0 @@
-The Overview of Eye blink Detection ..
-
-In this project, I have implemented an eye blink detection system using MediaPipe Face Mesh. The system processes video files by extracting each frame and storing them in a designated directory. Additionally, the frames are renamed according to a specified pattern for easy reference. This enables detailed frame-by-frame analysis, allowing for precise detection of eye blinks. The code supports efficient video frame conversion and organization, facilitating thorough evaluation of the blink detection process through frame processing techniques.
